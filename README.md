@@ -1,0 +1,2 @@
+# Peer-2-peer-communication-Java
+This code would initiate a chat network and search for nodes that would want to be a part of the network. It would then add a computer to the network using a handshake protocol and enables media and message exchange with other computers. It encrypts the data being transferred to ensure data security. The messages will be relayed to all the peers in the network where as the media is sent to a particular receiver.
